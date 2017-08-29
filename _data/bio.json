@@ -2,11 +2,11 @@
   "basics": {
     "name": "Christianne Izumigawa",
     "label": "Student",
-    "picture": "https://cizumigawa.github.io/images/Screen Shot 2016-10-16 at 3.56.41 PM.png",
+    "picture": "https://github.com/cizumigawa/cizumigawa.github.io/blob/master/images/profile_pic.jpg",
     "email": "cizumi32@hawaii.edu",
-    "phone": "808-295-0283",
+    "phone": "",
     "website": "https://cizumigawa.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
+    "summary": "I am studying for a B.S. in Computer Engineering in the Department of Engineering at the University of Hawaii. I expect to graduate in Spring, 2018.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -17,13 +17,13 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "cizumigawa",
+        "url": "http://github.com/cizumigawa"
       },
       {
         "network": "linkedin",
         "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "url": "https://www.linkedin.com/christianne-izumigawa"
       },
       {
         "network": "twitter",
