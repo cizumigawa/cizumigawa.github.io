@@ -2,7 +2,7 @@
   "basics": {
     "name": "Christianne Izumigawa",
     "label": "Student",
-    "picture": "https://github.com/cizumigawa/cizumigawa.github.io/images/profile_pic.jpg",
+    "picture": "https://github.com/cizumigawa/cizumigawa.github.io/blob/master/images/profile_pic.jpg",
     "email": "cizumi32@hawaii.edu",
     "phone": "",
     "website": "https://cizumigawa.github.io",
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "name": "data mining",
+      "name": "machine learning",
       "keywords": [
       ]
     },
@@ -63,10 +63,8 @@
       "keywords": [
         "C",
         "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Python",
+        "Javascript"
       ]
     },
     {
@@ -76,17 +74,16 @@
         "MacOS",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "g++"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Engineering (expected Spring, 2018)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2014-09-01",
       "endDate": "Present",
       "gpa": "",
       "courses": [
