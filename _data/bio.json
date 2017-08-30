@@ -6,7 +6,7 @@
     "email": "cizumi32@hawaii.edu",
     "phone": "",
     "website": "https://cizumigawa.github.io",
-    "summary": "I am studying for a B.S. in Computer Engineering in the Department of Engineering at the University of Hawaii. I expect to graduate in Spring, 2018.",
+    "summary": "Along with pursuing a B.S. in Computer Engineering, I am also a Software Intern at the Hawaii Space Flight Laboratory and a firm supporter of STEM education.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -29,10 +29,8 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "feature recognition",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
       ]
     },
     {
@@ -41,7 +39,12 @@
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "robotics",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "flight and ground station software",
       "keywords": [
       ]
     }
@@ -63,8 +66,7 @@
       "keywords": [
         "MacOS",
         "Ubuntu",
-        "Git/GitHub",
-        "g++"
+        "Git/GitHub"
       ]
     }
   ],
@@ -74,77 +76,63 @@
       "area": "Computer Engineering (expected Spring, 2018)",
       "studyType": "B.S.",
       "startDate": "2014-09-01",
-      "endDate": "Present",
-      "gpa": "",
+      "endDate": "2018-05-12",
+      "gpa": "3.31",
       "courses": [
+        "Object Oriented Programming", "Discrete Math", "Software Engineering", "Data Structures and Algorithms", "Operating Systems"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Hawaii Space Flight Laboratory",
+      "position": "Software Intern",
+      "website": "www.hsfl.hawaii.edu",
+      "startDate": "March 2015",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Software developer for flight, ground station, and testbed software.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Update and revise existing software libraries and their respective documentation.",
+        "Co-develop new projects for the extension of lab capabilities.",
+        "Facilitate networking and student outreach."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "NASA / Teledyne Brown Engineering",
+      "position": "NEA Scout Software Intern",
+      "website": "https://www.nasa.gov/content/nea-scout",
+      "startDate": "2017-05-24",
+      "endDate": "2017-08-04",
+      "summary": "Software developer for ground station tools and user interfaces.",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Design and develop user interfaces for data and telemetry query.",
+        "Implement tools to facilitate communication between flight and mission operations personel.",
+        "Document user guides for newly created tools."
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Hawaii Robotics Competitions (VEX, VEX IQ, and FRC)",
+      "website": "http://www.friendsofhawaiirobotics.org/",
+      "position": "Volunteer",
+      "startDate": "2014",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Support the educational efforts of various Hawaii Robotics competitions and STEM-related activities.",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
       ]
     },
     {
       "organization": "",
       "website": "",
-      "position": "Professional organization involvement",
+      "position": "Professional Organization Involvement",
       "startDate": "",
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Member, SWE Student Branch, 2016-Present",
+        "Member, IEEE Student Branch, 2016-Present"
       ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
   ],
   "references": [
