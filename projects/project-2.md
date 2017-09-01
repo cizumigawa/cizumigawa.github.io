@@ -1,24 +1,17 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
+image: images/cosmos.png
+title: COSMOS - ADCS Library
 permalink: projects/vacay
-date: 2015
+date: 2014-Present
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - C++
+  - Qt
+  - Flight Software
+summary: A co-developed library for ADCS operations in flight software.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+COSMOS (Comprehensive Open-architecture Solution for Mission Operations Systems) is a framework which provides support for many different aspects of flight software and ground station tools. The [COSMOS Project](http://cosmos-project.org/) is an extensive framework built on C++ and object-oriented programming concepts.
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
-
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+For this project, I co-developed the ADCS (Attitude Determination and Control System) library in COSMOS to be used in future satellite missions.
