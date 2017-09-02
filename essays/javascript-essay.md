@@ -8,7 +8,7 @@ labels:
   - JavaScript Essay
 ---
 
-
+JavaScript as a language is very different from what I am used to.
 
 
 
