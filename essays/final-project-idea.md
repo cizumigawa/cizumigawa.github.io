@@ -8,6 +8,8 @@ labels:
   - Meteor
 ---
 
+Authors: Tallas Goo and Christianne Izumigawa
+
 # Overview
 
 *The problem*: Students in the UH system often lose touch with their high-school friends due to their increased workload and other commitments.  They want to meet up with their friends and other alumni, but because there are no easy ways to create events and find other interested people, they often don’t. In another scenario, some students come from the mainland and would like to meet new people who are from or around the same area as them, but again, as there are no easy ways to meet these other people, they don’t.
@@ -29,3 +31,5 @@ labels:
   * User goes to landing page, logs in, goes to profile page, edits profile
   * User logs in, browses groups filtered by location or high-school, views a group’s page, signs-up for an event
 
+# Beyond the basics
+  * Option to create specific interest groups (video games, reading, cooking, etc.)
