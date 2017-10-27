@@ -13,8 +13,7 @@ summary: Reflect on Meteor
 
 There are three main things that impress me about Meteor: the way that Meteor auto-reloads, the way that it keeps projects organized, and the various support packages written for it.
 Prior to using Meteor, I had been using Node.js for my web server needs.  As a new user who often made mistakes, I always found it irritating to have to shut down the server and restart it whenever something changed in the file I was working on -- then I found Nodemon.  
-Nodemon is a npm package that allows Node to have auto-reloading functionality, and I hoenstly thought it was the best thing since making LEDs light up.  Anyway, as I mentioned before, I was a beginner who was making many mistakes and changes, so I greatly appreciated this feature, and I'm even more grateful that this feature also exists in Meteor.  
-Actually, I'm even more grateful that it exists in Meteor since Meteor takes a while to get up and running.
+Nodemon is a npm package that allows Node to have auto-reloading functionality, and I hoenstly thought it was the best thing since making LEDs light up.  Anyway, as I mentioned before, I was a beginner who was making many mistakes and changes, so I greatly appreciated this feature, and I'm even more grateful that this feature also exists in Meteor.  Actually, I'm even more grateful that it exists in Meteor since Meteor takes a while to get up and running.
 
 The struggles of a programmer who is new to web development are endless, but organization was exceptionally difficult to grasp in web development since literally the entire layout, design, and functionality of the whole site needs to be coded and linked together.  
 Coming from a Python/C++ background where design and layout are pretty much nonexistent until UIs are necessary, I was a tad overwhelmed by the fact that not only did we have to write code for the full functionality of the site, but also, we had to design and write the code for the site itself.
