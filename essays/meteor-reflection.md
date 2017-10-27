@@ -1,15 +1,13 @@
 ---
 layout: essay
 type: essay
-title: Reflect on Meteor
+title: Meditating on Meteor
 date: 2017-10-26
 labels:
   - Software Engineering
   - Meteor Essay
-summary: Reflect on Meteor
+summary: Meditating on Meteor
 ---
-
-# Meditating on Meteor
 
 There are many problems that I've experienced while using Meteor.  However, since I've already ranted through the things that I dislike about Meteor, I thought that I might as well dedicate this post to the three main things that impress me about Meteor: the way that Meteor auto-reloads, the way that it keeps projects organized, and the various support packages written for it.
 
