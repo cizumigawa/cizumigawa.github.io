@@ -11,3 +11,6 @@ summary: Thoughts on Design Patterns
 
 # Design Patterns
 
+Design patterns are often described as general solutions to common software problems.  There are three main subsets of design patterns: creational, structural, and behavioral.  
+
+
