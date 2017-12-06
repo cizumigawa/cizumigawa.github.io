@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Design Patterns
-date: 2017-012-05
+date: 2017-12-05
 labels:
   - Software Engineering
   - Design Patterns Essay
@@ -11,6 +11,7 @@ summary: Thoughts on Design Patterns
 
 # Design Patterns
 
-Design patterns are often described as general solutions to common software problems.  There are three main subsets of design patterns: creational, structural, and behavioral.  
+Design patterns are often described as general solutions to common software problems.  There are three main subsets of design patterns: creational, structural, and behavioral.  In my previous programming experiences, I have followed a variety of design patterns, but the one that I enjoy the most is the mediator design pattern.
 
+While the design pattern is literally named "Mediator," I see the mediator as a coordinator between the different program objects and nodes rather than a mediator.
 
