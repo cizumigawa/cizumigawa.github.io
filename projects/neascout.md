@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/neascout.png
 title: NEA Scout Ground Station GUI
-permalink: projects/micromouse
+permalink: projects/neascout
 date: 2017
 labels:
   - GUI
