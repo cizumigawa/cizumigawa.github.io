@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: image/venture.png
 title: Venture UH Manoa
 permalink: projects/vacay
 date: 2017
