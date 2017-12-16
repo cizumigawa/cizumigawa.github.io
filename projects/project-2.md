@@ -4,7 +4,7 @@ type: project
 image: images/cosmos.png
 title: COSMOS - ADCS Library
 permalink: projects/vacay
-date: 2014
+date: 08-01-2017
 labels:
   - C++
   - Qt
@@ -12,6 +12,10 @@ labels:
 summary: A co-developed library for ADCS operations in flight software.
 ---
 
-COSMOS (Comprehensive Open-architecture Solution for Mission Operations Systems) is a framework which provides support for many different aspects of flight software and ground station tools. The [COSMOS Project](http://cosmos-project.org/) is an extensive framework built on C++ and object-oriented programming concepts.
+# COSMOS
+COSMOS (Comprehensive Open-architecture Solution for Mission Operations Systems) is a C++ framework which provides software support for many different aspects of satellite flight control: flight software, ground station tools, testbed tools, etc. Although the [COSMOS Project](http://cosmos-project.org/) is currently built with mostly C++ and object-oriented programming concepts, it is quickly evolving to include Python and JavaScript libraries.
 
-For this project, I co-developed the ADCS (Attitude Determination and Control System) library in COSMOS to be used in future satellite missions.
+# ADCS
+The ADCS (Attitude Determination and Control System) is a device which monitors and controls satellite movement in space.  Equipped with torque rods, reaction wheels, a star tracker, gyros, nadir sensors, and sun sensors, the ADCS is an important and complicated aspect of all satellites; however, in order for the COSMOS framework to communicate with this device, a library of ADCS commands had to be developed.  As such, this project focused on creating the command and telemetry library for the ADCS (specifically, the CubeSpace CubeADCS) in order for COSMOS to communicate properly with the ADCS.  
+
+While this library was co-developed with two other developers, my contribution to this project was the foundation for the library.
