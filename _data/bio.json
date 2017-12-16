@@ -6,7 +6,7 @@
     "email": "cizumi32@hawaii.edu",
     "phone": "",
     "website": "https://cizumigawa.github.io",
-    "summary": "Along with pursuing a B.S. in Computer Engineering, I am also a Software Intern at the Hawaii Space Flight Laboratory and a firm supporter of STEM education.",
+    "summary": "Aloha! Along with pursuing a B.S. in Computer Engineering, I am also a Software Intern at the Hawaii Space Flight Laboratory and a firm supporter of STEM education.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -29,7 +29,7 @@
   },
   "interests": [
     {
-      "name": "feature recognition",
+      "name": "computer vision",
       "keywords": [
       ]
     },
@@ -44,7 +44,7 @@
       ]
     },
     {
-      "name": "flight and ground station software",
+      "name": "flight software",
       "keywords": [
       ]
     }
@@ -57,14 +57,15 @@
         "C",
         "C++",
         "Python",
-        "Javascript"
+        "Javascript",
+        "Meteor",
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
+        "macOS",
         "Ubuntu",
         "Git/GitHub"
       ]
@@ -77,9 +78,9 @@
       "studyType": "B.S.",
       "startDate": "2014-09-01",
       "endDate": "2018-05-12",
-      "gpa": "3.31",
+      "gpa": "3.33",
       "courses": [
-        "Object Oriented Programming", "Discrete Math", "Software Engineering", "Data Structures and Algorithms", "Operating Systems"
+        "Object Oriented Programming (C++)", "Discrete Math", "Software Engineering", "Data Structures and Algorithms", "Operating Systems"
       ]
     }
   ],
