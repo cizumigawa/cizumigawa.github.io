@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/cosmos.png
 title: COSMOS - ADCS Library
-permalink: projects/cosmos-adcs
+permalink: projects/cosmos
 date: 08-01-2017
 labels:
   - C++
