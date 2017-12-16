@@ -4,7 +4,7 @@ type: project
 image: images/cosmos.png
 title: COSMOS - ADCS Library
 permalink: projects/cosmos
-date: 08-01-2017
+date: 2017
 labels:
   - C++
   - Qt
