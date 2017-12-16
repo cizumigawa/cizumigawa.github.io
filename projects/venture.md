@@ -15,7 +15,7 @@ labels:
 summary: A helpful website that connects UH Manoa associates to events and friends.
 ---
 
-![](../images/venture-landing.png)
+![](../images/venture-final-event-search.png)
 
 <http://ventureuhmanoa.meteorapp.com/>
 
