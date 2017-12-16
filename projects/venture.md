@@ -15,11 +15,13 @@ labels:
 summary: A helpful website that connects UH Manoa associates to events and friends.
 ---
 
+# Venture UH Manoa
+
+Venture UH Manoa is an interactive website that allows people within the UH community to stay updated on the latest events.
+
 ![](../images/venture-final-event-search.png)
 
 <http://ventureuhmanoa.meteorapp.com/>
-
-Venture UH Manoa is an interactive website that allows people within the UH community to stay updated on the latest events.
 
 Venture boasts many features:
  - Pleasing Aesthetics
