@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: image/venture.png
+image: images/venture.png
 title: Venture UH Manoa
-permalink: projects/vacay
+permalink: projects/venture
 date: 2017
 labels:
   - JavaScript
